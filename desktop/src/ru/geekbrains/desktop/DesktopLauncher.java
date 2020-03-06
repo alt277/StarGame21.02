@@ -10,6 +10,7 @@ public class DesktopLauncher {
 		new LwjglApplication(new StarGame(), config);
 		// comment
         // another comment
+		//third comment
 
 	}
 }
